@@ -2,7 +2,7 @@
 // API CLIENT - CLEAN + COMPLETE VERSION
 // =========================================
 
-const API_BASE_URL = "http://localhost:8000";
+const API_BASE_URL = " https://self-learning-backend.onrender.com";
 
 export async function testConnection() {
   try {
